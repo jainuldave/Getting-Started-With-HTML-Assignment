@@ -1,0 +1,27 @@
+﻿Getting Started With HTML Assignment
+_________________________________________________________________________
+
+1. Write a simple program in HTML that displays the heading "HTML defines the content and structure of your website” on the web browser?
+Solution: Check Task 1.html 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+Solution: The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers. You can use comments to explain your code, which can help you when you edit the source code at a later date. This is especially useful if you have a lot of code.
+We can use comments in HTML as : <!-- <p>This is paragraph </p> -->
+
+---------------------------------------------------------------------------------------------------------------------------
+
+3. Write an HTML program that includes a heading, a paragraph of text, a horizontal line, and a line break.Arrange these elements to create a simple web page layout?
+Solution: Check Task 2.html 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+4. Write a short note on Tag and element with an example?
+Solution: 1. Tags : HTML tags are the keywords on a web page that define how your web browser must format and display your web page. Almost all tags contain two parts, an opening, and a closing tag. For example, <html> is the opening tag and </html> is the closing tag.
+2. Elements : An HTML element is defined by a starting tag. If the element contains other content, it ends with a closing tag. For example, <p> is starting tag of a paragraph and </p> is closing tag of the same paragraph but <p>This is paragraph</p> is a paragraph element
+
+---------------------------------------------------------------------------------------------------------------------------
+
+5. What is the DOCTYPE Declaration in HTML?
+Solution: The DOCTYPE declaration is an instruction to the web browser about what version of HTML the page is written in.
